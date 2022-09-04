@@ -7,7 +7,9 @@ README.md
 
 ## Python
 This repository, currently, has the following small programs:
-- WIP.
+- Password generator and storage.
+- Flash Cards: A game to learn Spanish.
+- Turtle Crossing: Reach higher levels reaching the other side of the big road.
 
 Help to other members' repositories:
 - [heavenshell/py-pixela](https://github.com/heavenshell/py-pixela): Fixing a bug --> [#105](https://github.com/heavenshell/py-pixela/pull/105).  
