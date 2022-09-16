@@ -1,9 +1,7 @@
 README.md
-# The intro
--- someone is waving at you --  
-"Oh! Hello! Please feel free to check any book (project) you like. Note that as per today, the codes are relatively simple and, I hope, easy to follow."  
--- just a moment to contemplate the fireplace (weird that this is happening in a library) --  
-"Please, if, anyhow, you want to propose an update or an improvement, feel free to do so. I am learning as much as I can although tips and recommendations are always welcome."  
+# Welcome 
+Hello! Please feel free to check any project you like. Note that as per today, the codes are relatively simple and, I hope, easy to follow.  
+Please, if, anyhow, you want to propose an update or an improvement, feel free to do so. I am learning as much as I can although tips and recommendations are always welcome.  
 
 ## Python
 This repository, currently, has the following small programs:
