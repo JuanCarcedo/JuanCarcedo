@@ -9,6 +9,10 @@ This repository, currently, has the following small programs:
 - Flash Cards: A game to learn Spanish.
 - Turtle Crossing: Reach higher levels reaching the other side of the big road.
 - Dataframe Check: Class to do some basic first checks to a set of data in Pandas.
+- File check data: Initial checks (counting items) for txt files.
+- Files - Function Converter: Gather data from a file, execute the calculations required and then save the results into another file.
+- Task Manager: Base for a task manager program with admin and user menus and options.
+- finance_calculator: Interest calculation on a loan or an investment (simple, compound).
 
 Help to other members' repositories:
 - [heavenshell/py-pixela](https://github.com/heavenshell/py-pixela): Fixing a bug --> [#105](https://github.com/heavenshell/py-pixela/pull/105).  
