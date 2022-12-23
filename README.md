@@ -4,6 +4,7 @@ Hello! Please feel free to check any project you like. Note that as per today, t
 Please, if, anyhow, you want to propose an update or an improvement, feel free to do so. I am learning as much as I can although tips and recommendations are always welcome.  
 
 ## Python
+[Python Repo](https://github.com/JuanCarcedo/jca-python-projects)  
 This repository has the following small programs:
 - Password generator and storage.
 - Flash Cards: A game to learn Spanish.
@@ -24,6 +25,7 @@ This repository has the following small programs:
 - [heavenshell/py-pixela](https://github.com/heavenshell/py-pixela): Fixing a bug --> [#105](https://github.com/heavenshell/py-pixela/pull/105).  
 
 ## HTML/CSS
+[HTML/CSS Repo](https://github.com/JuanCarcedo/JuanCarcedo.github.io#juancarcedogithubio)  
 This repository will only contain my personal CV webpage. Maybe in the future I will update it with further capabilities.  
 [My web](https://juancarcedo.github.io/)
 
