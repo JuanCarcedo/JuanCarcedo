@@ -24,9 +24,13 @@ This repository has the following small programs:
 ##### Help to other members' repositories:
 - [heavenshell/py-pixela](https://github.com/heavenshell/py-pixela): Fixing a bug --> [#105](https://github.com/heavenshell/py-pixela/pull/105).  
 
-## HTML/CSS
+## HTML/CSS and little JS
 [HTML/CSS Repo](https://github.com/JuanCarcedo/JuanCarcedo.github.io#juancarcedogithubio)  
-This repository will only contain my personal CV webpage. Maybe in the future I will update it with further capabilities.  
+This repository contains:  
+- My personal webpage.
+- Shop webpage: Web for an unreal shop using [Bootstrap](https://getbootstrap.com/).
+
+I hope you like it.  
 [My web](https://juancarcedo.github.io/)
 
 **Happy coding!**
