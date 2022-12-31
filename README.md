@@ -19,7 +19,7 @@ This repository has the following small programs:
 
 ##### With SQLite db:
 - SQLite Test: Class to manage/handle simple SQLite requests (create table, update table...).
-- Bookstore: **WIP** (will be uploaded soon).
+- Bookstore: Manage a database from a bookstore.
 
 ##### Help to other members' repositories:
 - [heavenshell/py-pixela](https://github.com/heavenshell/py-pixela): Fixing a bug --> [#105](https://github.com/heavenshell/py-pixela/pull/105).  
