@@ -1,6 +1,6 @@
 README.md
 # Welcome 
-Hello! Please feel free to check any project you like. Note that as per today, the codes are relatively simple and, I hope, easy to follow.  
+Hello! Please feel free to check any project you like.    
 Please, if, anyhow, you want to propose an update or an improvement, feel free to do so. I am learning as much as I can although tips and recommendations are always welcome.  
 
 ## Python
