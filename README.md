@@ -16,6 +16,12 @@ This repository has the following small programs:
 - finance_calculator: Interest calculation on a loan or an investment (simple, compound).
 - Email platform simple simulator: Simulator of an inbox.
 - Warehouse: Implementation of an inventory management using txt as database.
+  
+##### App (with Kivy): --> Work In Progress.  
+Programtester: App that will be used to test some Python codes already implemented like:
+- Password and user management.  
+- Simple games in Python (PyGame maybe in the future).
+- App for a store or warehouse.  
 
 ##### With SQLite db:
 - SQLite Test: Class to manage/handle simple SQLite requests (create table, update table...).
