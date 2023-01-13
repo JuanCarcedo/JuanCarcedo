@@ -17,9 +17,9 @@ This repository has the following small programs:
 - Email platform simple simulator: Simulator of an inbox.
 - Warehouse: Implementation of an inventory management using txt as database.
   
-##### App (with Kivy): --> Work In Progress.  
-Programtester: App that will be used to test some Python codes already implemented like:
-- Password and user management.  
+##### App Programtester (with Kivy): --> Work In Progress.  
+App that will be used to test some Python codes already implemented like:
+- Password and user management [SQLite database].  
 - Simple games in Python (PyGame maybe in the future).
 - App for a store or warehouse.  
 
