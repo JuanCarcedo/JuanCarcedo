@@ -4,7 +4,7 @@ Hello! Please feel free to check any project you like.
 Please, if, anyhow, you want to propose an update or an improvement, feel free to do so. I am learning as much as I can so tips and recommendations are always welcome.  
 
 ## Python Language
-[Python Repo](https://github.com/JuanCarcedo/jca-python-projects)  
+### [Python Repo](https://github.com/JuanCarcedo/jca-python-projects)  
 This repository has the following small programs:
 - Password generator and storage.
 - Flash Cards: A game to learn Spanish.
