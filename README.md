@@ -6,8 +6,6 @@ Please, if, anyhow, you want to propose an update or an improvement, feel free t
 ## Python Language
 ### [Multiple Python programs](https://github.com/JuanCarcedo/jca-python-projects)  
 This repository has the following small programs:
-- Flash Cards: A game to learn Spanish.
-- Turtle Crossing: Reach higher levels reaching the other side of the big road.
 - Dataframe Check: Class to do some basic first checks to a set of data in Pandas.
 - File check data: Initial checks (counting items) for txt files.
 - Files - Function Converter: Gather data from a file, execute the calculations required and then save the results into another file.
@@ -24,8 +22,12 @@ I was tired of writing passwords in a piece of paper.
 Please check v1 to see the improvement [here](https://github.com/JuanCarcedo/Password-Vault/tree/main/Archive_Legacy%20versions).
 
 ### [Turtle crossing](https://github.com/JuanCarcedo/Turtle-Crossing)  
-My first game in Python (simple but funny!).  
+My first game in Python (simple but funny!). Done with Turtle (for now).  
 Reach higher levels reaching the other side of the big road.
+
+### [Flashcard study](https://github.com/JuanCarcedo/Flash-Cards)  
+Learn Spanish with these flash cards.  
+With Tkinter.
 
 ### [Warehouse](https://github.com/JuanCarcedo/Warehouse)
 Implementation of an inventory management using txt as database.
