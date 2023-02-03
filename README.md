@@ -18,11 +18,12 @@ This repository has the following small programs:
 ##### With SQLite db:
 - SQLite Test: Class to manage/handle simple SQLite requests (create table, update table...).
 
-### [Password Vault](https://github.com/JuanCarcedo/Password-Vault)  
+### [Password Vault (v2)](https://github.com/JuanCarcedo/Password-Vault)  
 Program to store and retrieve passwords.  
-I was tired of writing passwords in a piece of paper.
+I was tired of writing passwords in a piece of paper.  
+Please check v1 to see the improvement [here](https://github.com/JuanCarcedo/Password-Vault/tree/main/Archive_Legacy%20versions).
 
-### [Warehouse:](https://github.com/JuanCarcedo/Warehouse)
+### [Warehouse](https://github.com/JuanCarcedo/Warehouse)
 Implementation of an inventory management using txt as database.
 
 ### [Bookstore](https://github.com/JuanCarcedo/Bookstore)  
