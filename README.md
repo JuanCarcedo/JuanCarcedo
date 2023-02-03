@@ -4,7 +4,7 @@ Hello! Please feel free to check any project you like.
 Please, if, anyhow, you want to propose an update or an improvement, feel free to do so. I am learning as much as I can so tips and recommendations are always welcome.  
 
 ## Python Language
-### [Python Repo](https://github.com/JuanCarcedo/jca-python-projects)  
+### [Multiple Python programs](https://github.com/JuanCarcedo/jca-python-projects)  
 This repository has the following small programs:
 - Flash Cards: A game to learn Spanish.
 - Turtle Crossing: Reach higher levels reaching the other side of the big road.
@@ -17,7 +17,6 @@ This repository has the following small programs:
 
 ##### With SQLite db:
 - SQLite Test: Class to manage/handle simple SQLite requests (create table, update table...).
-- Bookstore: Manage a database from a bookstore.
 
 ### [Password Vault](https://github.com/JuanCarcedo/Password-Vault)  
 Program to store and retrieve passwords.  
@@ -25,6 +24,10 @@ I was tired of writing passwords in a piece of paper.
 
 ### [Warehouse:](https://github.com/JuanCarcedo/Warehouse)
 Implementation of an inventory management using txt as database.
+
+### [Bookstore](https://github.com/JuanCarcedo/Bookstore)  
+Database management for a Bookstore.  
+SQLite.
  
 ### [App Programtester](https://github.com/JuanCarcedo/PythonTester_App) (with Kivy): --> Work In Progress.  
 App that will be used to test some Python codes already implemented like:
