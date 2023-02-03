@@ -21,11 +21,11 @@ Program to store and retrieve passwords.
 I was tired of writing passwords in a piece of paper.  
 Please check v1 to see the improvement [here](https://github.com/JuanCarcedo/Password-Vault/tree/main/Archive_Legacy%20versions).
 
-### [Turtle crossing](https://github.com/JuanCarcedo/Turtle-Crossing)  
+### [Turtle crossing (v2)](https://github.com/JuanCarcedo/Turtle-Crossing)  
 My first game in Python (simple but funny!). Done with Turtle (for now).  
 Reach higher levels reaching the other side of the big road.
 
-### [Flashcard study](https://github.com/JuanCarcedo/Flash-Cards)  
+### [Flashcard study (v2)](https://github.com/JuanCarcedo/Flash-Cards)  
 Learn Spanish with these flash cards.  
 With Tkinter.
 
