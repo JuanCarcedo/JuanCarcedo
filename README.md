@@ -25,9 +25,10 @@ Please check v1 to see the improvement [here](https://github.com/JuanCarcedo/Pas
 My first game in Python (simple but funny!). Done with Turtle (for now).  
 Reach higher levels reaching the other side of the big road.
 
-### [Flashcard study (v2)](https://github.com/JuanCarcedo/Flash-Cards)  
+### [Flashcard study (v3)](https://github.com/JuanCarcedo/Flash-Cards)  
 Learn Spanish with these flash cards.  
 With Tkinter.
+Please check v2 to see the improvement [here](https://github.com/JuanCarcedo/Flash-Cards/tree/main/Archive_Legacy_versions).
 
 ### [Warehouse](https://github.com/JuanCarcedo/Warehouse)
 Implementation of an inventory management using txt as database.
