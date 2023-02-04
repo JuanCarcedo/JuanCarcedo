@@ -27,7 +27,7 @@ Reach higher levels reaching the other side of the big road.
 
 ### [Flashcard study (v3)](https://github.com/JuanCarcedo/Flash-Cards)  
 Learn Spanish with these flash cards.  
-With Tkinter.
+With Tkinter.  
 Please check v2 to see the improvement [here](https://github.com/JuanCarcedo/Flash-Cards/tree/main/Archive_Legacy_versions).
 
 ### [Warehouse](https://github.com/JuanCarcedo/Warehouse)
