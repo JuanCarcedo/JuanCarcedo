@@ -2,8 +2,16 @@ README.md
 # Welcome 
 Hello! Please feel free to check any project you like.    
 Please, if, anyhow, you want to propose an update or an improvement, feel free to do so. I am learning as much as I can so tips and recommendations are always welcome.  
+## Help to other members' repositories:
+- [heavenshell/py-pixela](https://github.com/heavenshell/py-pixela): Fixing a bug --> [#105](https://github.com/heavenshell/py-pixela/pull/105).  
 
 ## Python Language
+### [Django project - Online courses](https://github.com/JuanCarcedo/final-cloud-app-with-database)
+This repository is meant to be a copy of a real-life working scenario.  
+The background is: I joined a team as a developer. Based on my skillset they asked me to create an exam capability for their online courses’ platform.  
+So, that is what I did; I forked the repository and created the feature plus some little changes.  
+More information in the readme.
+
 ### [Multiple Python programs](https://github.com/JuanCarcedo/jca-python-projects)  
 This repository has the following small programs:
 - Dataframe Check: Class to do some basic first checks to a set of data in Pandas.
@@ -42,9 +50,6 @@ App that will be used to test some Python codes already implemented like:
 - Password and user management [SQLite database].  
 - Simple games in Python (PyGame maybe in the future).
 - App for a store or warehouse.  
-
-## Help to other members' repositories:
-- [heavenshell/py-pixela](https://github.com/heavenshell/py-pixela): Fixing a bug --> [#105](https://github.com/heavenshell/py-pixela/pull/105).  
 
 ## HTML/CSS and little JS
 [HTML/CSS Repo](https://github.com/JuanCarcedo/JuanCarcedo.github.io#juancarcedogithubio)  
