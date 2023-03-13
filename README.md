@@ -1,9 +1,14 @@
 README.md
 # Welcome 
 Hello! Please feel free to check any project you like.    
-Please, if, anyhow, you want to propose an update or an improvement, feel free to do so. I am learning as much as I can so tips and recommendations are always welcome.  
+Please, if, anyhow, you want to propose an update or an improvement, feel free to do so. I am learning as much as I can, so tips and recommendations are always welcome.  
 ## Help to other members' repositories:
 - [heavenshell/py-pixela](https://github.com/heavenshell/py-pixela): Fixing a bug --> [#105](https://github.com/heavenshell/py-pixela/pull/105).  
+
+## C++ Language
+### [Multiple C++ Programs -- WIP](https://github.com/JuanCarcedo/cplusplusprojects)  
+Small C++ Programs listed below:  
+- MenuSelections: Simple console program to show and learn functions.  
 
 ## Python Language
 ### [Django project - Online courses](https://github.com/JuanCarcedo/final-cloud-app-with-database)
