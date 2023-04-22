@@ -10,7 +10,7 @@ Please, if, anyhow, you want to propose an update or an improvement, feel free t
 Small C++ Programs listed below:  
 - MenuSelections: Simple console program to show and learn functions.  
 
-## Python Languagef
+## Python Language
 ### IBM - Final Project
 Implementation of a website for a famous band. Multiple microservices working together using:
 - Django
@@ -18,7 +18,8 @@ Implementation of a website for a famous band. Multiple microservices working to
 - MongoDB
 - IBM Cloud
 - Kubernetes
-- Docker
+- Docker  
+  
 _Repositories:_
 - [Back-End-Development-Pictures](https://github.com/JuanCarcedo/Back-End-Development-Pictures)
 - [Back-End-Development-Songs](https://github.com/JuanCarcedo/Back-End-Development-Songs)
