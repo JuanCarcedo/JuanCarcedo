@@ -31,6 +31,9 @@ The background is: I joined a team as a developer. Based on my skillset they ask
 So, that is what I did; I forked the repository and created the feature plus some little changes.  
 More information in the readme.
 
+### [Python Project for AI & Application Development - Online courses](https://github.com/JuanCarcedo/xzceb-flask_eng_fr)
+Implementation of a language translator using Flask.
+
 ### [Multiple Python programs](https://github.com/JuanCarcedo/jca-python-projects)  
 This repository has the following small programs:
 - Dataframe Check: Class to do some basic first checks to a set of data in Pandas.
